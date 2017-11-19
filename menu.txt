@@ -1,0 +1,4 @@
+Pizza;250
+Chicken;120
+ Coke;45
+Sandwich;100
